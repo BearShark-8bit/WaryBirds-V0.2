@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg9"
+   width="224"
+   height="150"
+   viewBox="0 0 224 150"
+   sodipodi:docname="slicersvg.svg"
+   inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\slicer.png"
+   inkscape:export-xdpi="251.485"
+   inkscape:export-ydpi="251.485"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:snap-others="false"
+     inkscape:snap-global="false"
+     width="300px"
+     inkscape:zoom="1.2316035"
+     inkscape:cx="134.37766"
+     inkscape:cy="152.64652"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g15">
+    <rect
+       style="fill:#803300;fill-opacity:1;stroke-width:0.60392"
+       id="rect13736-17"
+       width="3.2653699"
+       height="19.640453"
+       x="53.077469"
+       y="94.903175"
+       ry="1.7329813"
+       inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\rect13736-17.png"
+       inkscape:export-xdpi="251.485"
+       inkscape:export-ydpi="251.485" />
+    <rect
+       style="fill:#803300;fill-opacity:1;stroke-width:0.979778"
+       id="rect13736-6"
+       width="4.984767"
+       height="33.863762"
+       x="19.022068"
+       y="140.44438"
+       ry="2.9879789"
+       transform="matrix(0.49002305,-0.87170948,0.3129254,0.94977771,0,0)"
+       inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\rect13736-6.png"
+       inkscape:export-xdpi="251.485"
+       inkscape:export-ydpi="251.485" />
+    <g
+       id="g13661"
+       transform="matrix(0.58618288,0,0,0.62219233,-114.36344,-36.22575)"
+       inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\g13661.png"
+       inkscape:export-xdpi="251.485"
+       inkscape:export-ydpi="251.485">
+      <rect
+         style="fill:#9d633c;fill-opacity:1;stroke-width:0.976203"
+         id="rect139"
+         width="81.049835"
+         height="61.958626"
+         x="201.67265"
+         y="76.295067"
+         ry="14.457012"
+         rx="15.467526"
+         transform="matrix(0.99779556,-0.0663628,0.07535183,0.99715701,0,0)" />
+      <g
+         id="g1078"
+         transform="translate(71.798387,1.2379032)">
+        <ellipse
+           style="fill:#ffffff"
+           id="path783"
+           cx="163.40323"
+           cy="83.86795"
+           rx="9.2842741"
+           ry="5.8800402" />
+        <ellipse
+           style="fill:#000000"
+           id="path917"
+           cx="159.68951"
+           cy="86.034279"
+           rx="4.3326612"
+           ry="3.7137096" />
+        <rect
+           style="fill:#552200"
+           id="rect657"
+           width="33.423386"
+           height="6.1895161"
+           x="149.16733"
+           y="76.75"
+           ry="3.094758" />
+      </g>
+      <rect
+         style="fill:#ff6600;stroke-width:0.692877"
+         id="rect1142"
+         width="13.817266"
+         height="6.1895161"
+         x="182.31725"
+         y="127.339"
+         rx="2.2240605"
+         ry="6.1895161"
+         transform="rotate(-8.7013102)" />
+      <rect
+         style="fill:#ff6600;stroke-width:0.692877"
+         id="rect1142-8"
+         width="13.817266"
+         height="6.1895161"
+         x="182.31725"
+         y="133.5285"
+         rx="2.2240605"
+         ry="6.1895161"
+         transform="rotate(-8.7013102)" />
+    </g>
+    <g
+       id="g13665"
+       transform="matrix(0.58618288,0,0,0.62219233,-133.23001,-35.070429)">
+      <rect
+         style="fill:#9d633c;fill-opacity:1"
+         id="rect1311"
+         width="63.133064"
+         height="97.1754"
+         x="235.35237"
+         y="160.05435"
+         rx="15.4675"
+         ry="9.2842703"
+         transform="rotate(-8.9497357)" />
+      <ellipse
+         style="fill:#c46c31;fill-opacity:1;stroke-width:0.918179"
+         id="path5109"
+         cx="266.82422"
+         cy="218.24525"
+         rx="26.182398"
+         ry="43.482834"
+         transform="matrix(0.98303833,-0.18340023,0.13108575,0.99137103,0,0)" />
+    </g>
+    <ellipse
+       style="fill:#875839;fill-opacity:1;stroke-width:0.634594"
+       id="path6942"
+       cx="56.250057"
+       cy="52.872871"
+       rx="16.340603"
+       ry="4.6451268"
+       transform="matrix(0.93878209,0.34451153,-0.36886031,0.92948484,0,0)"
+       inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\path6942.png"
+       inkscape:export-xdpi="251.485"
+       inkscape:export-ydpi="251.485" />
+    <ellipse
+       style="fill:#875839;fill-opacity:1;stroke-width:0.604003"
+       id="path6942-1"
+       cx="79.34021"
+       cy="47.479294"
+       rx="14.913662"
+       ry="4.610755"
+       transform="matrix(0.97704354,0.21303971,-0.19001097,0.98178197,0,0)"
+       inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\path6942-1.png"
+       inkscape:export-xdpi="251.485"
+       inkscape:export-ydpi="251.485" />
+    <g
+       id="g13712"
+       transform="matrix(0.58618288,0,0,0.62219233,-16.40234,-27.753397)"
+       inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\g13712.png"
+       inkscape:export-xdpi="251.485"
+       inkscape:export-ydpi="251.485">
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13305-5-4"
+         width="34.661289"
+         height="22.901209"
+         x="274.60385"
+         y="4.7039833"
+         transform="rotate(41.146547)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12732-8"
+         width="27.233871"
+         height="6.1895161"
+         x="434.41708"
+         y="151.9157"
+         transform="rotate(16.618341)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12732-5"
+         width="27.233871"
+         height="6.1895161"
+         x="420.88846"
+         y="109.20354"
+         transform="rotate(21.588613)" />
+      <rect
+         style="fill:#a35c29;fill-opacity:1"
+         id="rect12060"
+         width="12.997984"
+         height="41.469757"
+         x="46.934509"
+         y="204.82677"
+         rx="15.4675"
+         ry="0"
+         transform="rotate(-34.486608)" />
+      <rect
+         style="fill:#6c5353;fill-opacity:1"
+         id="rect12366"
+         width="38.99395"
+         height="9.2842741"
+         x="28.720343"
+         y="197.29536"
+         rx="15.4675"
+         transform="rotate(-35.923119)" />
+      <rect
+         style="fill:#6c5353;fill-opacity:1;stroke-width:1.62688"
+         id="rect12366-0"
+         width="75.611526"
+         height="12.672625"
+         x="31.051065"
+         y="245.24083"
+         rx="29.99238"
+         transform="matrix(0.82725334,-0.56182908,0.52273702,0.85249399,0,0)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.766902"
+         id="rect12514"
+         width="29.622601"
+         height="40.556484"
+         x="-7.9162016"
+         y="328.24429"
+         rx="0"
+         ry="0"
+         transform="matrix(0.62201856,-0.78300249,0.71316153,0.70099973,0,0)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.766902"
+         id="rect12514-6"
+         width="29.622601"
+         height="40.556484"
+         x="-54.693073"
+         y="296.19482"
+         rx="0"
+         ry="0"
+         transform="matrix(0.50533571,-0.86292284,0.80492262,0.59337979,0,0)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.766902"
+         id="rect12514-5"
+         width="29.622601"
+         height="40.556484"
+         x="-194.76146"
+         y="292.88916"
+         rx="0"
+         ry="0"
+         transform="matrix(0.13767531,-0.99047741,0.97047733,0.24119237,0,0)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke-width:0.697246"
+         id="rect12514-53"
+         width="24.773649"
+         height="40.085354"
+         x="-205.12445"
+         y="338.53287"
+         rx="0"
+         ry="0"
+         transform="matrix(0.1796361,-0.98373313,0.9786136,0.20570711,0,0)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12732"
+         width="27.233871"
+         height="6.1895161"
+         x="437.68375"
+         y="147.71109"
+         transform="rotate(16.618341)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12732-7"
+         width="27.233871"
+         height="6.1895161"
+         x="359.56644"
+         y="301.05597"
+         transform="rotate(-3.651498)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12732-9"
+         width="27.233871"
+         height="6.1895161"
+         x="332.81989"
+         y="302.9476"
+         transform="rotate(-4.0197615)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12732-2"
+         width="27.233871"
+         height="6.1895161"
+         x="394.02435"
+         y="165.90916"
+         transform="rotate(16.618341)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12732-4"
+         width="27.233871"
+         height="6.1895161"
+         x="423.39642"
+         y="147.45377"
+         transform="rotate(16.618341)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12923"
+         width="21.663307"
+         height="16.711693"
+         x="334.85281"
+         y="259.95966" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12925"
+         width="13.616936"
+         height="9.2842741"
+         x="361.46774"
+         y="271.1008" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12927"
+         width="15.47379"
+         height="16.711693"
+         x="353.42136"
+         y="263.67337" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12929"
+         width="10.522178"
+         height="8.0463705"
+         x="345.375"
+         y="272.95764" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12931"
+         width="24.139112"
+         height="15.47379"
+         x="188.16129"
+         y="189.3992" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12933"
+         width="14.235888"
+         height="6.8084679"
+         x="201.15927"
+         y="207.96774" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect12935"
+         width="16.711693"
+         height="9.2842741"
+         x="207.96774"
+         y="199.92137" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13039"
+         width="75.5121"
+         height="6.1895161"
+         x="305.39658"
+         y="75.429474"
+         transform="rotate(26.903493)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13039-4"
+         width="75.5121"
+         height="6.1895161"
+         x="365.10345"
+         y="116.19443"
+         transform="rotate(20.662533)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13165"
+         width="25.377016"
+         height="35.280243"
+         x="-38.531235"
+         y="306.12732"
+         transform="rotate(-50.567336)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13269"
+         width="6.1895161"
+         height="12.997984"
+         x="253.77016"
+         y="219.10887" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13271"
+         width="14.854838"
+         height="14.854838"
+         x="274.81451"
+         y="235.20161" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13273"
+         width="12.379032"
+         height="11.76008"
+         x="258.72177"
+         y="224.67944" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13277"
+         width="6.8084679"
+         height="6.8084679"
+         x="256.24594"
+         y="222.20363" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13279"
+         width="9.2842741"
+         height="7.4274192"
+         x="333.6149"
+         y="256.8649" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13281"
+         width="11.76008"
+         height="11.141129"
+         x="307"
+         y="244.4859" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13283"
+         width="4.9516129"
+         height="9.2842741"
+         x="300.19153"
+         y="244.4859" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13287"
+         width="6.8084679"
+         height="8.6653223"
+         x="304.52417"
+         y="245.10484" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13289"
+         width="1.8568548"
+         height="9.2842741"
+         x="290.2883"
+         y="238.29637" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13291"
+         width="13.616936"
+         height="6.8084679"
+         x="289.66934"
+         y="240.77219" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13293"
+         width="8.6653223"
+         height="12.997984"
+         x="268.00604"
+         y="228.39316" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13295"
+         width="7.4274192"
+         height="1.8568548"
+         x="275.43344"
+         y="235.20161" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13299"
+         width="7.4274192"
+         height="10.522178"
+         x="288.43143"
+         y="236.43953" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13301"
+         width="9.2842741"
+         height="6.8084679"
+         x="272.95764"
+         y="232.72581" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13303"
+         width="11.141129"
+         height="12.379032"
+         x="269.86288"
+         y="227.7742" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13305"
+         width="34.661289"
+         height="22.901209"
+         x="272.06976"
+         y="6.5072441"
+         transform="rotate(41.146547)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13305-5"
+         width="34.661289"
+         height="22.901209"
+         x="267.50391"
+         y="-0.5994702"
+         transform="rotate(41.146547)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13305-5-2"
+         width="34.661289"
+         height="22.901209"
+         x="264.8205"
+         y="6.6769457"
+         transform="rotate(41.146547)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13453"
+         width="24.139112"
+         height="8.0463705"
+         x="29.146315"
+         y="259.31018"
+         transform="rotate(-36.292631)" />
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1"
+         id="rect13570"
+         width="1.2379032"
+         height="7.4274192"
+         x="199.30243"
+         y="177.02017" />
+    </g>
+    <ellipse
+       style="fill:#875839;fill-opacity:1;stroke-width:0.718719"
+       id="path6942-2"
+       cx="61.458763"
+       cy="76.678589"
+       rx="21.036535"
+       ry="4.6283002"
+       transform="matrix(0.99889919,-0.04690856,0.08321135,0.99653192,0,0)"
+       inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\path6942-2.png"
+       inkscape:export-xdpi="251.485"
+       inkscape:export-ydpi="251.485" />
+    <rect
+       style="fill:#803300;fill-opacity:1;stroke-width:0.60445"
+       id="rect13736"
+       width="3.3570735"
+       height="19.137562"
+       x="88.93856"
+       y="46.334969"
+       ry="1.6886084"
+       transform="matrix(0.7215137,0.69240016,-0.64843658,0.76126868,0,0)"
+       inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\rect13736.png"
+       inkscape:export-xdpi="251.485"
+       inkscape:export-ydpi="251.485" />
+    <rect
+       style="fill:#803300;fill-opacity:1;stroke-width:0.874827"
+       id="rect13736-1"
+       width="3.657023"
+       height="36.799175"
+       x="5.8372145"
+       y="116.66821"
+       ry="3.2469862"
+       transform="matrix(0.85680278,-0.51564425,0.1415336,0.98993345,0,0)"
+       inkscape:export-filename="D:\projects\jump and shoot\assets\sprites\slicer\rect13736-1.png"
+       inkscape:export-xdpi="251.485"
+       inkscape:export-ydpi="251.485" />
+  </g>
+</svg>
